@@ -2,4 +2,4 @@
 
 # Chicken Biryani
 # Fish Curry
-# Potato fry
+# Potato Fry
